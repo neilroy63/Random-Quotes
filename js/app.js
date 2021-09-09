@@ -1,7 +1,7 @@
 const quotes = [
   {
     quote:
-      "So ahead of my time, even when I rhyme aobut the future I be reminiscing.",
+      "So ahead of my time, even when I rhyme about the future I be reminiscing.",
     author: "J Cole",
   },
   {
