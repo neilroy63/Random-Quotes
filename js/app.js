@@ -35,7 +35,7 @@ const quotes = [
   },
   {
     quote:
-      "God show me the way because the Devil’s tryin’ to break me down. The only thing that I pray is that my feet don’t fail me now. And I don’t think there is nothing I can do now to right my wrongs I want to talk to God, but I’m afraid because we ain’t spoke in so long...",
+      "God show me the way because the Devil’s tryin’ to break me down. The only thing that I pray is that my feet don’t fail me now. And I don’t think there is nothing I can do now to right my wrongs. I want to talk to God, but I’m afraid because we ain’t spoke in so long...",
     author: "Kanye West",
   },
   {
