@@ -1,6 +1,6 @@
 # Random-Quotes
 
-A random quote generator to help inspire you.
+A random quote generator with some of my fav rap lyrics to help inspire you.
 
 ## Credits
 
