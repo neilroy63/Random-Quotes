@@ -45,7 +45,7 @@ const quotes = [
   },
   {
     quote:
-      "And this ting's all love and hate, 'cause a lot of man love to hate. My young G done draws and eights. Now he's cuttin' through bricks like the 1-1-8. And I ain't on indirects, diss me, and I take that personal. How you gassed off a note that's purple? Bet you never got it off white like Virgil. Two men and an angry Merc. That's war wit' a German, Winston Churchill",
+      "And this ting's all love and hate, 'cause a lot of man love to hate. My young G done draws and eights. Now he's cuttin' through bricks like the 1-1-8. And I ain't on indirects, diss me, and I take that personal. How you gassed off a note that's purple? Bet you never got it off white like Virgil. Two men and an angry Merc. That's war wit' a German, Winston Churchill...",
     author: "Dave",
   },
 ];
