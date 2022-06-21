@@ -26,11 +26,11 @@ const quotes = [
   },
   {
     quote:
-      "You better lose yourself in the music, the moment you own it. You better never let it go. You only get one shot, do not miss your chance to blow. This opportunity comes once in a lifetime.",
-    author: "Eminem",
+      "You say you love rain, but you use an umbrella to walk under it. You say you love sun, but you seek shelter when it is shining. You say you love wind, but when it comes you close your windows. So that's why I'm scared when you say you love me.",
+    author: "Bob Marley",
   },
   {
-    quote: "We ain't picture perfect but we worth the picture still...",
+    quote: "We ain't picture perfect but we worth the picture still.",
     author: "J Cole",
   },
   {
@@ -44,9 +44,59 @@ const quotes = [
     author: "Lauryn Hill",
   },
   {
+    quote: "One good thing about music, when it hits you, you feel no pain.",
+    author: "Bob Marley",
+  },
+  {
+    quote: "I'm your dog ears, perk up at the sound of your name.",
+    author: "J Cole",
+  },
+  {
+    quote: "I'm stealing glances, thanking God that he drew you like that.",
+    author: "J Cole",
+  },
+  {
     quote:
-      "And this ting's all love and hate, 'cause a lot of man love to hate. My young G done draws and eights. Now he's cuttin' through bricks like the 1-1-8. And I ain't on indirects, diss me, and I take that personal. How you gassed off a note that's purple? Bet you never got it off white like Virgil. Two men and an angry Merc. That's war wit' a German, Winston Churchill...",
-    author: "Dave",
+      "Let me be patient, let me be kind, make me unselfish, without being blind.",
+    author: "Lauryn Hill",
+  },
+  {
+    quote: "Don't be a hard rock when you really are a gem!",
+    author: "Lauryn Hill",
+  },
+  {
+    quote:
+      "Love is an incredible thing but we don't know love like we should. Unconditional love, we don't know it because if a person stops stimulating us, we stop loving them.",
+    author: "Lauryn Hill",
+  },
+  {
+    quote:
+      "If she's amazing, she won't be easy. If she's easy, she won't be amazing. If she's worth it, you wont give up. If you give up, you're not worthy. ... Truth is, everybody is going to hurt you; you just gotta find the ones worth suffering for.",
+    author: "Bob Marley",
+  },
+  {
+    quote: "Be like water, my friend.",
+    author: "Bruce Lee",
+  },
+  {
+    quote:
+      "I have read until my mind has become a blister filled with all the world's poison.",
+    author: "Unknown",
+  },
+  {
+    quote:
+      "Emancipate yourselves from mental slavery. None but ourselves can free our minds.",
+    author: "Bob Marley",
+  },
+  {
+    quote:
+      "The biggest coward of a man is to awaken the love of a woman without the intention of loving her.",
+    author: "Unknown",
+  },
+  {
+    quote:
+      "You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.",
+    author: "Bob Marley",
   },
 ];
 // };
